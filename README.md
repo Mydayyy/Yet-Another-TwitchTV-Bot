@@ -25,6 +25,7 @@ This is a simple TwitchTV Bot which was written in one evening. It uses TwitchTV
 ## Setup
 - Clone this repo
 - run `npm install`
+- Rename settings.example.js to settings.js
 - Modify settings.js according to your preferences
 - run `node index.js`
 
