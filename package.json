@@ -1,0 +1,19 @@
+{
+  "name": "twitchtvbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "sequelize": "^4.38.0",
+    "sqlite3": "^4.0.1",
+    "tmi.js": "^1.2.1",
+    "twitch-api-v5": "^2.0.4",
+    "twitch-bot": "^1.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mydayyy",
+  "license": "MIT"
+}
